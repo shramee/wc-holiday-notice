@@ -1,0 +1,1 @@
+# wc-holiday-notice
